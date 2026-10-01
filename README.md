@@ -33,7 +33,7 @@
 | [**Q&A Platform API**](https://github.com/Abanou6Nassif/Node-js-project-) | Node.js · Express · MongoDB | Stack Overflow-style REST API with role-based access, OTP password reset, voting system, and Cloudinary uploads (team project) |
 | [**Italian Restaurant**](https://italian-restaurant-flax.vercel.app/) | Angular · TypeScript · CSS3 | Modern single-page restaurant site with component-based architecture |
 | [**Handmade Marketplace Clone**](https://dev-handmade-tm1.pantheonsite.io/) | WordPress · PHP · Custom Theme | Handmade goods marketplace with custom theme and plugin integrations |
-| [**E-Commerce Frontend**](https://abanou6nassif.github.io/ecommerce-website-simple/) | Vanilla JS · HTML5 · CSS3 | Responsive multi-page shop with blog, cart, and contact pages |
+| [**Casa E-Commerce Frontend**](https://abanou6nassif.github.io/casa-ecommerce-website/) | Vanilla JS · HTML5 · CSS3 | Responsive multi-page shop with blog, cart, and contact pages |
 | [**GameX**](https://abanou6nassif.github.io/GameX---Gaming-website/) | Vanilla JS · HTML5 · CSS3 | Responsive gaming website with CSS3 animations and no framework dependencies |
 
 ---
