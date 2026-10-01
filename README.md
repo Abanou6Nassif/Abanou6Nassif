@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abanoub Nassif</h1>
-<h3 align="center">Full-Stack Developer (MERN) · Generative AI Enthusiast · Egypt 🇪🇬</h3>
+<h3 align="center">Full-Stack Developer (MERN) · Generative AI Enthusiast</h3>
 
 <p align="center">
   I build secure, responsive, database-driven web apps with the MERN stack,<br>
